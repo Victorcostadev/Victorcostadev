@@ -18,7 +18,7 @@ Busco oportunidades em empresas inovadoras onde possa agregar valor, adquirir no
 
 ## 🛠️ Conhecimentos Técnicos
 
-- **Front-end:** HTML, CSS, JavaScript, React (básico)
+- **Desenvolvimento:** JavaScript | HTML | CSS | React | C# | .Net
 - **TI e Infraestrutura:** Organização e manutenção de computadores, administração avançada de sistemas Windows, redes de computadores
 - **Design:** Photoshop, Canva
 - **Produtividade:** Pacote Office (intermediário)
